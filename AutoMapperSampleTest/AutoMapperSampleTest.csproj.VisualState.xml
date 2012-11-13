@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\li2157.SNET\Documents\Visual Studio 2012\Projects\AutoMapperSample\AutoMapperSampleTest\AutoMapperSampleTest.csproj</TopNode>
+  <SelectedNode>[0-1000]C:\Users\li2157.SNET\Documents\Visual Studio 2012\Projects\AutoMapperSample\AutoMapperSampleTest\AutoMapperSampleTest.csproj</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\li2157.SNET\Documents\Visual Studio 2012\Projects\AutoMapperSample\AutoMapperSampleTest\AutoMapperSampleTest.csproj" Expanded="true" />
+    <Node UniqueName="[0-1006]C:\Users\li2157.SNET\Documents\Visual Studio 2012\Projects\AutoMapperSample\AutoMapperSampleTest\bin\Debug\AutoMapperSampleTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1007]AutoMapperSampleTest" Expanded="true" />
+    <Node UniqueName="[0-1001]AutoMapperSampleTest.AutoMapperDriverTest" Expanded="true" />
+  </Nodes>
+</VisualState>
